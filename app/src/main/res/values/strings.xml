@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoSQL</string>
+    <string name="loadButton">Load data</string>
+</resources>
